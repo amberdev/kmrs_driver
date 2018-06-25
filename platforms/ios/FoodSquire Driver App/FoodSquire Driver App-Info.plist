@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleDisplayName</key>
+    <string>FoodSquire Driver App</string>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIcons</key>
+    <dict/>
+    <key>CFBundleIcons~ipad</key>
+    <dict/>
+    <key>CFBundleIdentifier</key>
+    <string>com.foodsquire.driverapp</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>${PRODUCT_NAME}</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2.1.6</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>com.dev.informatics.foodsquiredriver</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>com.dev.informatics.foodsquiredriver</string>
+        </array>
+      </dict>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>prefs</string>
+        </array>
+      </dict>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>2.1.6</string>
+    <key>Google Maps API Key</key>
+    <string>AIzaSyAKFavxKVr3RimkwXKeMpqc1g4oHsi3B4k</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>googlechromes</string>
+      <string>comgooglemaps</string>
+    </array>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>This app requires bluetooth access to function properly.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>This app requires calendar access to function properly.</string>
+    <key>NSContactsUsageDescription</key>
+    <string>This app requires contacts access to function properly.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>This app requires constant access to your location in order to track your position, even when the screen is off or the app is in the background.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>This app requires constant access to your location in order to track your position, even when the screen is off or the app is in the background.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app requires access to your location when the screen is on and the app is displayed.</string>
+    <key>NSMainNibFile</key>
+    <string/>
+    <key>NSMainNibFile~ipad</key>
+    <string/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This app needs microphone access</string>
+    <key>NSMotionUsageDescription</key>
+    <string>This app requires motion detection access to function properly.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>This app needs write-access to photo library</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>This app requires reminders access to function properly.</string>
+    <key>UIBackgroundModes</key>
+    <array>
+      <string>audio</string>
+      <string>location</string>
+      <string>remote-notification</string>
+    </array>
+    <key>UIInterfaceOrientation</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+    </array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+    </array>
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app needs read/write-access photo library access</string>
+  </dict>
+</plist>

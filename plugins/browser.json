@@ -1,0 +1,73 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-mauron85-background-geolocation": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "nl.x-services.plugins.insomnia": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-googlemaps-plus": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-ios-camera-permissions": {
+      "PACKAGE_NAME": "com.foodsquire.driverapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    }
+  }
+}

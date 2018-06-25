@@ -1,0 +1,85 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-googlemaps-plus": {
+      "API_KEY_FOR_IOS": "AIzaSyAKFavxKVr3RimkwXKeMpqc1g4oHsi3B4k",
+      "NSLOCATIONWHENINUSEUSAGEDESCRIPTION": "Show your location on the map",
+      "NSLOCATIONALWAYSUSAGEDESCRIPTION": "Trace your location on the map",
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-insomnia": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-mauron85-background-geolocation": {
+      "ALWAYS_USAGE_DESCRIPTION": "This app requires background tracking enabled",
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-media": {
+      "KEEP_AVAUDIOSESSION_ALWAYS_ACTIVE": "NO",
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-ios-camera-permissions": {
+      "CAMERA_USAGE_DESCRIPTION": "This app needs camera access",
+      "MICROPHONE_USAGE_DESCRIPTION": "This app needs microphone access",
+      "PHOTOLIBRARY_ADD_USAGE_DESCRIPTION": "This app needs write-access to photo library",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": "This app needs read/write-access photo library access",
+      "PACKAGE_NAME": "com.foodsquire.driverapp"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.dev.informatics.foodsquiredriver"
+    }
+  }
+}
